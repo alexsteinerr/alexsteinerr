@@ -11,8 +11,8 @@
 <br>
 
 - A passionate Self-taught game developer
-- A lover for back end
-- Currently learning AI by Self
+- A back end lover
+- Currently learning ...
 - Personal website [link](https://www.alexsteiner.ml)
 
 <br><br>
