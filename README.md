@@ -12,7 +12,7 @@
 
 - A passionate Self-taught game developer
 - A back end lover
-- Currently learning ...
+- Currently trying to become a Nintendo Developer 
 - Personal website [link](https://www.alexsteiner.ml)
 
 <br><br>
