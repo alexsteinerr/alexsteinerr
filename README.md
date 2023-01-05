@@ -15,7 +15,7 @@
 
 Hi, I'm [Alex Steiner](https://alexsteiner.dev), a backend & game developer 🚀 from Austria / Italy, currently, I'm a working alone and trying to open and create my own game studio, 14 year old self taught developer 👨🏽‍💻. Beside's programming, I enjoy programming.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -27,19 +27,25 @@ Hi, I'm [Alex Steiner](https://alexsteiner.dev), a backend & game developer 🚀
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unrealengine/unrealengine.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<div>
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
+</div>
 
 <summary>📈 My GitHub Stats</summary>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlexSteiner30&theme=gotham)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSteiner30&show_icons=true&theme=gotham)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSteiner30&layout=compact&theme=gotham">
