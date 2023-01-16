@@ -39,10 +39,10 @@ Hi, I'm [Alex Steiner](https://alexsteiner.dev), a backend & game developer 🚀
   <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
   <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg">
   <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
 </div>
 
 <summary>📈 My GitHub Stats</summary>
