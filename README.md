@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, I'm [Alex Steiner](https://www.alexsteiner.dev), a backend & game developer 🚀 from Austria - Italy, currently, I'm a working alone and trying to open and create my own game studio, 14 year old self taught developer 👨🏽‍💻. Beside's programming, I enjoy programming.
+Hi, I'm [Alex Steiner](https://www.alexsteiner.dev), a backend & game developer 🚀 from Austria / Italy, currently, I'm a working alone and trying to open and create my own game studio, 14 year old self taught developer 👨🏽‍💻. Beside's programming, I enjoy programming.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
