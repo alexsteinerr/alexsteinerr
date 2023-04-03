@@ -47,5 +47,5 @@ Hi, I'm [Alex Steiner](https://www.alexsteiner.dev), a backend & game developer 
 
 <summary>📈 My GitHub Stats</summary>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlexSteiner30)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlexSteiner30&theme=gotham)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSteiner30&layout=compact&theme=gotham">
