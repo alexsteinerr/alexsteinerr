@@ -20,7 +20,7 @@ Hi, I'm [Alex Steiner](https://www.alexsteiner.dev), a backend & game developer 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on a triple A game;
-- 🌱 I’m currently learning Unreal Engine 5 and C++; 
+- 🌱 I’m currently learning DNA patterns and AI; 
 - 💬 Let's work togheter on something cool :wink:;
 - 📫 How to reach me: [alex@alexsteiner.dev](alex@alexsteiner.dev);
 - 📝[Resume](https://www.alexsteiner.dev/resume)
