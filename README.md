@@ -22,7 +22,7 @@ Hi, I'm [Alex Steiner](https://www.alexsteiner.dev), a backend & game developer 
 - 👨🏽‍💻 I’m currently working on a triple A game;
 - 🌱 I’m currently learning DNA patterns and AI; 
 - 💬 Let's work togheter on something cool :wink:;
-- 📫 How to reach me: [alex@alexsteiner.dev](alex@alexsteiner.dev);
+- 📫 How to reach me: [alex@alexsteiner.dev](alex.steiner@student.h-is.com);
 - 📝[Resume](https://www.alexsteiner.dev/resume)
 
 **Languages and Tools:**  
