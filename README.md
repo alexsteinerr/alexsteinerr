@@ -1,38 +1,29 @@
 # Alex Steiner 👋
 
-**International Baccalaureate Diploma Candidate | Machine Learning Researcher | AI & Mechatronics Enthusiast**  
-📍 San Marino  
-🌐 [alexsteiner.dev](https://alexsteiner.dev/) • 🔗 [LinkedIn](https://www.linkedin.com/in/alexsteinerr/)
+**IB Diploma Candidate • ML Researcher • AI & Mechatronics Enthusiast** • 📍 San Marino • 🌐 [alexsteiner.dev](https://alexsteiner.dev/) • 🔗 [LinkedIn](https://www.linkedin.com/in/alexsteinerr/)
 
 ---
 
 ## 🎓 About Me
-I’m currently pursuing the International Baccalaureate Diploma Programme, where I’ve combined a rigorous academic curriculum with hands-on research in artificial intelligence and embedded systems. I thrive on interdisciplinary challenges and enjoy translating theoretical concepts into practical solutions that bridge software, hardware, and the physical world.
+I’m completing the IB Diploma with a focus on AI-driven embedded systems. I love turning theory into real-world applications— from decoding neural signals to building IoT-enabled devices.
 
 ---
 
-## 🔬 Research Highlights
-My work spans neural signal decoding, remote sensing and event detection, wearable AI interfaces, and IoT-enabled smart agriculture—integrating deep learning models with microcontroller platforms to solve real-world problems and compete in international challenges.
+## 🛠️ Skills
+- **Languages:** Python · C/C++ · C# · Java · JavaScript · Swift  
+- **AI/ML:** PyTorch · TensorFlow · NLP · Computer Vision  
+- **Embedded:** Arduino · ESP32 · Raspberry Pi  
+- **Web:** Node.js · Express · React · MongoDB  
+- **Tools:** Git · Docker · Jupyter · VS Code · Linux  
 
 ---
 
-## 🛠️ Technical Proficiencies
-- **Languages:** Python, C, C++, C#, Java, JavaScript, Swift, Dart  
-- **Machine Learning & AI:** PyTorch, TensorFlow, Scikit-Learn, NLP, Computer Vision  
-- **Embedded Systems:** Arduino, ESP32, Raspberry Pi, Microcontrollers  
-- **Web & Full-Stack:** Node.js, Express.js, EJS, MongoDB, React  
-- **Tools & Platforms:** Git, Docker, Jupyter, VS Code, Arch Linux  
+## 🤝 Leadership
+- Springer Nature Author
+- Mentor, STEM & Robotics Club  
+- Volunteer Dev, Sustainability NGOs  
 
 ---
 
-## 🤝 Leadership & Outreach
-- Researcher in cognitive sciences, communication restoration in ALS
-- Mentor in my school’s STEM club, guiding peers through design, coding, and competition prep.  
-- Volunteer developer for sustainability-focused non-profits, building data-driven web applications.  
-
----
-
-## 🎯 Future Aspirations
-I aspire to pursue advanced studies in computer engineering and applied AI—contributing to research communities and driving innovations at the intersection of intelligent systems and mechatronics.
-
----
+## 🎯 Goals
+Pursue computer engineering & applied AI at university, driving innovations at the intersection of intelligent systems and mechatronics.  
