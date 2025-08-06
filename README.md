@@ -1,51 +1,38 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/qUbApEc">
-  <img align="left" alt="Alex's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://www.instagram.com/alexsteine30/">
-  <img align="left" alt="Alex's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/AlexSteiner_">
-  <img align="left" alt="Alex's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
+# Alex Steiner 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=AlexSteiner30)
+**International Baccalaureate Diploma Candidate | Machine Learning Researcher | AI & Mechatronics Enthusiast**  
+📍 San Marino  
+🌐 [alexsteiner.dev](https://alexsteiner.dev/) • 🔗 [LinkedIn](https://www.linkedin.com/in/alexsteinerr/)
 
-<br />
+---
 
-Hi, I'm [Alex Steiner](https://www.alexsteiner.dev), a backend & game developer 🚀 from Austria / Italy, currently, I'm a working alone and trying to open and create my own game studio, 16 year old self taught developer 👨🏽‍💻. Beside's programming, I enjoy programming.
+## 🎓 About Me
+I’m currently pursuing the International Baccalaureate Diploma Programme, where I’ve combined a rigorous academic curriculum with hands-on research in artificial intelligence and embedded systems. I thrive on interdisciplinary challenges and enjoy translating theoretical concepts into practical solutions that bridge software, hardware, and the physical world.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
+---
 
-- 👨🏽‍💻 I’m currently working on a triple A game;
-- 🌱 I’m currently learning DNA patterns and AI; 
-- 💬 Let's work togheter on something cool :wink:;
-- 📫 How to reach me: [alex@alexsteiner.dev](alex.steiner@student.h-is.com);
-- 📝[Resume](https://www.alexsteiner.dev/resume)
+## 🔬 Research Highlights
+My work spans neural signal decoding, remote sensing and event detection, wearable AI interfaces, and IoT-enabled smart agriculture—integrating deep learning models with microcontroller platforms to solve real-world problems and compete in international challenges.
 
-**Languages and Tools:**  
+---
 
-<div>
-  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
-  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg">
-  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
-  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
-  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg">
-  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-</div>
+## 🛠️ Technical Proficiencies
+- **Languages:** Python, C, C++, C#, Java, JavaScript, Swift, Dart  
+- **Machine Learning & AI:** PyTorch, TensorFlow, Scikit-Learn, NLP, Computer Vision  
+- **Embedded Systems:** Arduino, ESP32, Raspberry Pi, Microcontrollers  
+- **Web & Full-Stack:** Node.js, Express.js, EJS, MongoDB, React  
+- **Tools & Platforms:** Git, Docker, Jupyter, VS Code, Arch Linux  
 
-<summary>📈 My GitHub Stats</summary>
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlexSteiner30&theme=gotham)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSteiner30&layout=compact&theme=gotham">
+## 🤝 Leadership & Outreach
+- Researcher in cognitive sciences, communication restoration in ALS
+- Mentor in my school’s STEM club, guiding peers through design, coding, and competition prep.  
+- Volunteer developer for sustainability-focused non-profits, building data-driven web applications.  
+
+---
+
+## 🎯 Future Aspirations
+I aspire to pursue advanced studies in computer engineering and applied AI—contributing to research communities and driving innovations at the intersection of intelligent systems and mechatronics.
+
+---
