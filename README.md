@@ -1,12 +1,11 @@
 # Alex Steiner 👋
 
-**IB Diploma Candidate • ML Researcher • AI & Mechatronics Enthusiast** • 📍 San Marino • 🌐 [alexsteiner.dev](https://alexsteiner.dev/) • 🔗 [LinkedIn](https://www.linkedin.com/in/alexsteinerr/)
+**IB Diploma Candidate • ML Researcher • AI & BCI Enthusiast** • 📍 San Marino • 🌐 [alexsteiner.dev](https://alexsteiner.dev/) • 🔗 [LinkedIn](https://www.linkedin.com/in/alexsteinerr/)
 
 ---
 
 ## 🎓 About Me
-I’m completing the IB Diploma with a focus on AI-driven embedded systems. I love turning theory into real-world applications— from decoding neural signals to building IoT-enabled devices.
-
+I’m completing the IB Diploma, with a personal study focus on brain-computer interfaces (BCIs). I love turning theory into real-world applications while helping others.
 ---
 
 ## 🛠️ Skills
@@ -19,11 +18,11 @@ I’m completing the IB Diploma with a focus on AI-driven embedded systems. I lo
 ---
 
 ## 🤝 Leadership
-- Springer Nature Author
+- IEEE Author
 - Mentor, STEM & Robotics Club  
 - Volunteer Dev, Sustainability NGOs  
 
 ---
 
 ## 🎯 Goals
-Pursue computer engineering & applied AI at university, driving innovations at the intersection of intelligent systems and mechatronics.  
+Pursue computation and cognition at university, continuing and refining my research on inner speech decoding.
