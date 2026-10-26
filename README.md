@@ -50,11 +50,6 @@ Developing a wearable sEMG-based system for silent-speech decoding, with the goa
 - **Hardware & Embedded Systems:** PCB Design, Electrode Design, Embedded Systems, Biosignal Acquisition
 - **Development Tools:** Git, Linux, Jupyter
 
-## Leadership & Volunteering
-
-- **Boarding Learning Captain & STEM Tutor (2022–2026)** — Tutored peers in mathematics, computer science, and physics.
-- **Environmental Volunteer (2024)** — Participated in coral restoration and beach cleanups in the Maldives and Venice, including ecological data collection and comparison.
-
 ## Research Interests
 
 Brain–computer interfaces · Inner-speech decoding · Neural engineering · Biosignal machine learning · Wearable neurotechnology · Assistive communication · Neuroethics
